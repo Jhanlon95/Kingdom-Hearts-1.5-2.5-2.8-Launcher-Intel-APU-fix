@@ -15,4 +15,6 @@ Now when you run the game from the Epic Launcher it will open the alternative la
 # Known issues:
 - Occasionally when starting the game it might tell you to log into Epic, I've found just running it again it'll work, not sure why it does this and it doesn't bother me enough to try and fix it, I think it's some kind of race condition.
 
+I ran the exe through VirusTotal as well just to try and give some peace of mind to people, there were 66 runs and 1 flagged it as Malware, but that looks to be a false positive. The scan can be found here - https://www.virustotal.com/gui/file/9194d15d9ab5616b925f561ab33b3497c7389f55511d0d468cd3aabf123a28f7
+
 <img width="737" height="580" alt="image" src="https://github.com/user-attachments/assets/453b82e4-d398-4baf-8537-48198d9d5d33" />
