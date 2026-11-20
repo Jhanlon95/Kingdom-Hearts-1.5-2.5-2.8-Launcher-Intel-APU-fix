@@ -20,7 +20,9 @@ Now when you run the game from the Epic Launcher it will open the alternative la
 
 It will have the same kind of launcher style as the 1.5+2.5 launcher, if you want to launch Kingdom Hearts X Back Cover you will need to tell the alternative launcher where the original one is as there is no dedicated exe file for Kingdom Hearts X Back Cover so it just opens up the official launcher where you can open that movies up from there.
 
-<img width="737" height="580" alt="image" src="https://github.com/user-attachments/assets/453b82e4-d398-4baf-8537-48198d9d5d33" />
+| Kingdom Hearts 1.5 + 2.5                                                                                                           | Kingdom Hearts 2.8 |
+| ---                                                                                                                                | --- |
+| <img width="737" height="580" alt="image" src="https://github.com/user-attachments/assets/453b82e4-d398-4baf-8537-48198d9d5d33" /> | <img width="735" height="601" alt="image" src="https://github.com/user-attachments/assets/b43a1d20-9c64-429b-b3ad-cc74a3207829" /> |
 
 # Known issues:
 - Kingdom Hearts 1.5 + 2.5
