@@ -31,4 +31,6 @@ It will have the same kind of launcher style as the 1.5+2.5 launcher, if you wan
 - Kingdom Hearts 2.8
   - When at the menu if you select "Back" it might take you into the official launcher, it might also just hang in a loading screen, I would suggest using the "Quit Game" option or Alt+f4.
 
-I ran the exe through VirusTotal as well just to try and give some peace of mind to people, there were 66 runs and 1 flagged it as Malware, but that looks to be a false positive. The scan can be found here - https://www.virustotal.com/gui/file/9194d15d9ab5616b925f561ab33b3497c7389f55511d0d468cd3aabf123a28f7
+I ran the exe through VirusTotal as well just to try and give some peace of mind to people, there were 66 runs and 1 flagged it as Malware, but that looks to be a false positive. The scan can be found here 
+- KH1.5+2.5 - https://www.virustotal.com/gui/file/9194d15d9ab5616b925f561ab33b3497c7389f55511d0d468cd3aabf123a28f7
+- KH2.8 - https://www.virustotal.com/gui/file/6d7a4735c29d00f3a0b2fb5a6f02a0b3a4b01bea3363f0b18dd978b6ade29fa2
